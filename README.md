@@ -1,17 +1,15 @@
 # 👋 Hello, World!
+I'm a Software Engineer with a focus on AI and Machine Learning. I specialize in developing and deploying models using Python and TensorFlow 🤖
 
-I'm a **Front-End Developer** who loves to transform designs and ideas into web pages. I have a strong foundation in **React** and **Next.js** 🚀
-
-I'm also proficient in **TypeScript** and enjoy writing type-safe code.
+I'm also skilled in data analysis and enjoy working with cutting-edge technologies.
 
 ## 📚 Skills
-- **Libraries and Framworks** - React and Next.js 🕹️
-- **UI Libraries** - Tailwind, Chakra UI, Material UI, Shadcn UI 🎨
-- **TypeScript** - Writing type-safe code 🔒
-- **APIs & State Management Libraries** - Connecting the dots 🌐
-
-## 🌱 Always Learning
-I'm always eager to learn and keep up with the latest industry trends💻
+Machine Learning Frameworks - TensorFlow, PyTorch, scikit-learn 📈
+Programming Languages - Python, R, JavaScript 💻
+Data Analysis Libraries - Pandas, NumPy 📊
+Web Development - React, Next.js 🌐
+### 🌱 Always Learning
+Passionate about staying up-to-date with the latest advancements in AI and machine learning technologies 🚀
 
 <!--
 **ihaseeb8/ihaseeb8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
