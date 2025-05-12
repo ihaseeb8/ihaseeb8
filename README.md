@@ -1,11 +1,9 @@
 # 👋 Hello, World!
-I'm a Frontend Developer with a passion for creating dynamic and engaging user experiences. I specialize in building sleek, responsive interfaces using modern web technologies like React and Next.js 🌟
-
-I'm skilled in translating design concepts into interactive and intuitive web applications, and I enjoy staying at the forefront of frontend innovation.
+I'm a Software Engineer with a passion for solving real world problems and creating engaging user experiences 🌟
 
 <!--
 **ihaseeb8/ihaseeb8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
